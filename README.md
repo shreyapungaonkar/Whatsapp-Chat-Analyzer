@@ -1,2 +1,2 @@
 # Whatsapp-Chat-Analyzer
-The WhatsApp Chat Analyzer processes chat data exported in text format from WhatsApp. It preprocesses the data to extract message content, user details, timestamps, and other relevant information. The processed data is then analyzed to provide various insights
+The WhatsApp Chat Analyzer is a tool designed to analyze chat data exported from WhatsApp. It provides insights into message statistics, word usage, media sharing patterns, emoji usage, sentiment analysis, and more. This tool is built using Python, leveraging libraries such as Streamlit for the interactive web interface, Pandas for data manipulation, NLTK for sentiment analysis, and Matplotlib for data visualization.
